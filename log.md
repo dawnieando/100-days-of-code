@@ -4,9 +4,9 @@
 
 **Today's Progress**: Worked through Sololearn Python Section
 
-**Thoughts:** I'm finding that much of the code base is similar to other languages so lots of familiarity.
+**Thoughts:** I'm finding that much of the code base is similar to other languages so lots of familiarity.  I've taken this course before but a lot of it didn't sink in and I was overall not happy with my understanding, so started it again. Trying to consume and really think about this more.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** the course is here and it is the Python certificate -> https://www.sololearn.com/Play/Python
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
