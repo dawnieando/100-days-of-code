@@ -1,21 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 15, 2020
+Day 0: February 15, 2020
 
-**Today's Progress**: Worked through Sololearn Python Section
+Today's Progress**: Worked through Sololearn Python Certification
 
-**Thoughts:** I'm finding that much of the code base is similar to other languages so lots of familiarity.  I've taken this course before but a lot of it didn't sink in and I was overall not happy with my understanding, so started it again. Trying to consume and really think about this more.
+Thoughts:** I'm finding that much of the code base is similar to other languages so lots of familiarity.  I've taken this course before but a lot of it didn't sink in and I was overall not happy with my understanding, so started it again. Trying to consume and really think about this more. Completed sections on basic concepts, control structures, functions & modules and exceptions and files today.  I'm about 40% through the certification at this point.
 
 **Link to work:** the course is here and it is the Python certificate -> https://www.sololearn.com/Play/Python
+
+## Keeping the 100 days of code log examples below in place to follow a format
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
 ### Day 1: June 27, Monday
