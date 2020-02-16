@@ -10,15 +10,16 @@ Thoughts:** I'm finding that much of the code base is similar to other languages
 
 ## Keeping the 100 days of code log examples below in place to follow a format
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: February 16, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through SoloLearn Python Certification (more types and functional programming). 
 
-**Thoughts**: I
+**Thoughts**: Need to explore more around some items which weren't really sticking such as Lambdas and Yield.  Now about 60% through the certification. It's evident however that simply doing the course is just the very, very start of being competent in this area but the building blocks matter.  Peter Nikolow also alerted me to some free learning resources on Packt Publishing which are relevant to the study direction I'm taking too. There are a lot of good materials on Python, Machine Learning and e.g. Docker 
 
-**Link(s) to work**: 
+https://www.sololearn.com/Play/Python/
+https://www.packtpub.com/free-learning
 
+## Example below is just for my reference
 
 ### Day 1: June 27, Monday
 
