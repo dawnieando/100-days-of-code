@@ -16,6 +16,10 @@ Thoughts:** I'm finding that much of the code base is similar to other languages
 
 **Thoughts**: Need to explore more around some items which weren't really sticking such as Lambdas and Yield.  Now about 60% through the certification. It's evident however that simply doing the course is just the very, very start of being competent in this area but the building blocks matter.  Peter Nikolow also alerted me to some free learning resources on Packt Publishing which are relevant to the study direction I'm taking too. There are a lot of good materials on Python, Machine Learning and e.g. Docker 
 
+**Today's Progress**: Completed the Python 3 Certification on SoloLearn
+
+**Thoughts**: It's only a start but I am pleased I completed this.  Now to find more Python challenges to try to make it stick properly.
+
 **Link to work:**  https://www.sololearn.com/Play/Python/
 
 **Link to Packt free learning:** https://www.packtpub.com/free-learning
