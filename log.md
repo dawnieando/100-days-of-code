@@ -24,8 +24,6 @@ Thoughts:** I'm finding that much of the code base is similar to other languages
 
 **Link to Packt free learning:** https://www.packtpub.com/free-learning
 
-## Example below is just for my reference
-
 ### Day 2: February 17th 2020
 
 **Today's Progress**: Went through some W3C Python tutorials and installed Pycharm
@@ -35,3 +33,13 @@ Thoughts:** I'm finding that much of the code base is similar to other languages
 **Link(s) to work**
 1. https://www.jetbrains.com/pycharm/
 2. https://www.w3schools.com/Python/default.asp
+
+### Day 3: February 18th 2020
+
+**Today's Progress: Still working through W3 schools exercises on Python. Lots of cross-over with Sololearn of course but its sinking in now (eg differences between lists, tuples, dictionaries, sets). Digressing to maths to learn more about complex numbers.  
+
+Second update for the day - did some more on Python W3 Schools. Completed all the Python exercises in W3 Schools Python section altough there are still a lot of areas I want to go through again.  Starting to stick further.  The exercises were getting much easier toward the end and work off lots of repetition and quirky 'fill in the gaps' exercises.
+
+
+
+
