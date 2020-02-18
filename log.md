@@ -26,12 +26,12 @@ Thoughts:** I'm finding that much of the code base is similar to other languages
 
 ## Example below is just for my reference
 
-### Day 1: June 27, Monday
+### Day 2: February 17th 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Went through some W3C Python tutorials and installed Pycharm
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I didn't get a huge amount done today due to travelling for most of the day.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://www.jetbrains.com/pycharm/
+2. https://www.w3schools.com/Python/default.asp
