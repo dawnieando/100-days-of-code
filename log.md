@@ -40,6 +40,8 @@ Thoughts:** I'm finding that much of the code base is similar to other languages
 
 Second update for the day - did some more on Python W3 Schools. Completed all the Python exercises in W3 Schools Python section altough there are still a lot of areas I want to go through again.  Starting to stick further.  The exercises were getting much easier toward the end and work off lots of repetition and quirky 'fill in the gaps' exercises.
 
+### Day 4 and Day 5: February 18th 2020
 
+**Today's Progress: It's a juggle when travelling.  Moving into the conditionals section of Python on W3 Schools now.  I've done them before with Sololearn but will help solidify.  I will sign up for the Google new course on automation with Python today
 
 
