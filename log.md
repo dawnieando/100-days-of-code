@@ -40,8 +40,25 @@ Thoughts:** I'm finding that much of the code base is similar to other languages
 
 Second update for the day - did some more on Python W3 Schools. Completed all the Python exercises in W3 Schools Python section altough there are still a lot of areas I want to go through again.  Starting to stick further.  The exercises were getting much easier toward the end and work off lots of repetition and quirky 'fill in the gaps' exercises.
 
-### Day 4 and Day 5: February 18th 2020
+### Day 4 and Day 5: February 19th 2020 and 20th 2020
 
 **Today's Progress: It's a juggle when travelling.  Moving into the conditionals section of Python on W3 Schools now.  I've done them before with Sololearn but will help solidify.  I will sign up for the Google new course on automation with Python today
+
+### Day 6: February 21st 2020
+
+**Today's Progress: Travelling and learning Python
+
+19 hours of travelling involved 3 flights and 4 airports so grabbing time to do 100 days of code in various international lounges.  I signed up for Google' new Python automation course so began that and used the time to get ahead.  Already into week 2 of the 5 week long course.  Some was completed at 39,000 feet via airplane wifi.
+
+### Day 7: February 22nd 2020
+
+**Today's Progress: Week 2 of Google new Automation with Python Certification. Moving into much more code than previously.  Working out calculations / time (hours / mins / seconds), distance calculators and miles / km converter tools
+
+**Thoughts** Flew through week 1 on the Google course whilst in the airports yesterday.  Today am onto week 2 but the quizes and exercises are much more practical code edits.
+
+
+
+
+
 
 
