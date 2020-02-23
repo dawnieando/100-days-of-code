@@ -56,6 +56,12 @@ Second update for the day - did some more on Python W3 Schools. Completed all th
 
 **Thoughts** Flew through week 1 on the Google course whilst in the airports yesterday.  Today am onto week 2 but the quizes and exercises are much more practical code edits.
 
+### Day 8: February 23rd 2020
+
+**Today's Progress: Completed week 2 of the Google Python Automation Certification.  Increasingly the challenges involve creating scripts from scratch or debugging script examples.  Started Week 3 of the course early.  Some very challenging exercises (for me anyway).
+
+**Thoughts** I can see increasingly where I can use Python in my everyday work.
+
 
 
 
