@@ -62,6 +62,12 @@ Second update for the day - did some more on Python W3 Schools. Completed all th
 
 **Thoughts** I can see increasingly where I can use Python in my everyday work.
 
+### Day 9 and Day 10: February 24th and February 25th 2020
+
+**Today's Progress: Part way through week 4 of the Google Python Automation Certification.  Working on string manipulation and string formatting.  Trying simple scripts and calculators.  Having to keep going over things again and again at the moment.  
+
+**Thoughts** More and more bits are sticking and it's getting easier to write some small scripts without thinking too hard or making mistakes.
+
 
 
 
