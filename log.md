@@ -92,6 +92,10 @@ Second update for the day - did some more on Python W3 Schools. Completed all th
 
 **Thoughts** Starting from the beginning of the course and working through it quickly again is highly recommended.  The second sweep through is making things much more solid in my mind.
 
+**Day 19: March 5th 2020**
+
+**Today's Progress** Worked again through week 4 of the Google IT Automation with Python course.  Working through strings again, and simple scripts which multiply lengths of strings and return the string as a string as well as switching variables. I was pleased to be able to contribute to the forum on the course and help someone out who was struggling with a quiz by debugging their code and providing a solution.  
+
 
 
 
