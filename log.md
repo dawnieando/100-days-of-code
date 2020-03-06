@@ -96,6 +96,10 @@ Second update for the day - did some more on Python W3 Schools. Completed all th
 
 **Today's Progress** Worked again through week 4 of the Google IT Automation with Python course.  Working through strings again, and simple scripts which multiply lengths of strings and return the string as a string as well as switching variables. I was pleased to be able to contribute to the forum on the course and help someone out who was struggling with a quiz by debugging their code and providing a solution.  
 
+**Day 20: March 6th 2020**
+
+**Today's Progress** #100daysofcode Day 20 - Finishing week 4 again for the 2nd time on Google IT Automation with Python course.  Much clearer now and glad I revisited everything.  Tomorrow I will start with the final piece of work in The Crash Course in Python Project part of the course
+
 
 
 
