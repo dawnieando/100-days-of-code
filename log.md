@@ -102,13 +102,15 @@ Second update for the day - did some more on Python W3 Schools. Completed all th
 
 **Day 20: March 7th 2020** #100daysofcode Day 20 - Finishing week 4 again for the 2nd time on Google IT Automation with Python course.  Much clearer now and glad I revisited everything.  Tomorrow I will start with the final piece of work in The Crash Course in Python Project part of the course
 
-**Day 22: March 8th 2020** Not much progress today other than watching some Python tutorial videos.
+**Day 21: March 8th 2020** Not a huge amount of progress today; other than watcching some Python tutorials whilst on the treadmill at the gym.
 
-**Day 23: March 9th 2020** #100DaysOfCode - On the final week of the 'Google IT Automation with Python' course.  It's part of a 6 course specialisation though so plenty more to go. Spending ages trying to submit my assignment and there seems to be something wrong with the submission process in the UI. Sigh
+**Day 22: March 8th 2020** #100DaysOfCode - On the final week of the 'Google IT Automation with Python' course.  It's part of a 6 course specialisation though so plenty more to go. Spending ages trying to submit my assignment and there seems to be something wrong with the submission process in the UI. Sigh
 
-#100daysofcode - Day 23 - Update 2 - Spent over 3 hours today trying to pass the end of course Python project.  Having an absolute nightmare
+**Day 22: March 8th 2020** #100daysofcode - Day 23 - Update 2 - Spent over 3 hours today trying to pass the end of course Python project.  Having an absolute nightmare
 
-#100DaysOfCode - Day 23 - Update 3 - I finally passed the first 6 week course in Google IT Automation with Python Specialisation.  The last challenge was a pain.  Now on to 'Using Python to Interact with The Operating System'.
+**Day 22: March 8th 2020** #100DaysOfCode - Day 23 - Update 3 - I finally passed the first 6 week course in Google IT Automation with Python Specialisation.  The last challenge was a pain.  Now on to 'Using Python to Interact with The Operating System'.
+
+**Day 23: March 9th 2020** #100DaysOfCode - Day 23 - Beginning to learn about Pandas and PIL (Python Image Library). Very much enjoying this Python learning journey (even though it's just the start)
 
 
 
